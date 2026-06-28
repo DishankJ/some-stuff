@@ -8,3 +8,6 @@ https://colab.research.google.com/drive/1xpheg5I3pHyYg4afT9vivPFNIbzTZUh5?usp=sh
 
 25/6
 https://claude.ai/share/909330f6-2571-4289-a47f-db7f9ec0a37a
+
+28/6
+https://share.gemini.google/6TMvIvPZLC1N
